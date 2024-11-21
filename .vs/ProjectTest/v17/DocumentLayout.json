@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LTW\\ProjectTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|c:\\ltw\\projecttest\\projecttest\\controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|solutionrelative:projecttest\\controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|c:\\ltw\\projecttest\\projecttest\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|solutionrelative:projecttest\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|c:\\ltw\\projecttest\\projecttest\\views\\student\\showkq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|solutionrelative:projecttest\\views\\student\\showkq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|c:\\ltw\\projecttest\\projecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|solutionrelative:projecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|c:\\ltw\\projecttest\\projecttest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|solutionrelative:projecttest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|c:\\ltw\\projecttest\\projecttest\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4430D00C-8FC3-4155-B012-8E7DC2B174DE}|ProjectTest\\ProjectTest.csproj|solutionrelative:projecttest\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LTW\\ProjectTest\\ProjectTest\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectTest\\Program.cs",
+              "ToolTip": "C:\\LTW\\ProjectTest\\ProjectTest\\Program.cs",
+              "RelativeToolTip": "ProjectTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:57:46.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LTW\\ProjectTest\\ProjectTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LTW\\ProjectTest\\ProjectTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T08:55:46.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\LTW\\ProjectTest\\ProjectTest\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ProjectTest\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\LTW\\ProjectTest\\ProjectTest\\Models\\StudentModel.cs",
+              "RelativeToolTip": "ProjectTest\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:40:14.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowKQ.cshtml",
+              "DocumentMoniker": "C:\\LTW\\ProjectTest\\ProjectTest\\Views\\Student\\ShowKQ.cshtml",
+              "RelativeDocumentMoniker": "ProjectTest\\Views\\Student\\ShowKQ.cshtml",
+              "ToolTip": "C:\\LTW\\ProjectTest\\ProjectTest\\Views\\Student\\ShowKQ.cshtml",
+              "RelativeToolTip": "ProjectTest\\Views\\Student\\ShowKQ.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T08:16:58.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\LTW\\ProjectTest\\ProjectTest\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectTest\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\LTW\\ProjectTest\\ProjectTest\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "ProjectTest\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T08:09:10.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\LTW\\ProjectTest\\ProjectTest\\Controllers\\Student.cs",
+              "RelativeDocumentMoniker": "ProjectTest\\Controllers\\Student.cs",
+              "ToolTip": "C:\\LTW\\ProjectTest\\ProjectTest\\Controllers\\Student.cs",
+              "RelativeToolTip": "ProjectTest\\Controllers\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:05:51.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

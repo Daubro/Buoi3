@@ -1,0 +1,32 @@
+﻿@model ProjectTest.Controllers.Student
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Đăng ký chuyên ngành";
+}
+
+<h2>Đăng ký chuyên ngành</h2>
+<form asp-action="Index" method="post">
+    <div>
+        <label for="MSSV">Mã số sinh viên:</label>
+        <input type="text" id="MSSV" name="MSSV" required />
+    </div>
+    <div>
+        <label for="HoTen">Họ và tên:</label>
+        <input type="text" id="HoTen" name="HoTen" required />
+    </div>
+    <div>
+        <label for="DiemTB">Điểm trung bình:</label>
+        <input type="number" id="DiemTB" name="DiemTB" step="0.01" required />
+    </div>
+    <div>
+        <label for="ChuyenNganh">Chuyên ngành:</label>
+        <select id="ChuyenNganh" name="ChuyenNganh" required>
+            <option value="CNPM">Công nghệ phần mềm</option>
+            <option value="HTTT">Hệ thống thông tin</option>
+            <option value="ANM">An ninh mạng</option>
+            <option value="TTNT">Trí tuệ nhân tạo</option>
+            <option value="MMT">Mạng máy tính</option>
+        </select>
+    </div>
+    <button type="submit">Đăng ký</button>
+</form>

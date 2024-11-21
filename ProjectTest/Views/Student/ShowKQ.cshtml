@@ -1,0 +1,9 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Kết quả đăng ký";
+}
+<div class="result-container">
+    <h2>Cảm ơn bạn @ViewBag.MSSV - @ViewBag.HoTen đã đăng ký chuyên ngành @ViewBag.ChuyenNganh</h2>
+    <p>Số lượng sinh viên đã đăng ký ngành giống bạn là: @ViewBag.SameMajorCount</p>
+    <a href="/Student/Index">Quay lại trang đăng ký</a>
+</div>

@@ -1,0 +1,175 @@
+﻿/* Reset một số thuộc tính mặc định của trình duyệt */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Thiết lập kiểu font chữ cho toàn trang */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Màu nền sáng */
+    color: #333; /* Màu chữ chính */
+    line-height: 1.6;
+}
+
+/* Tiêu đề chính trang */
+h2 {
+    text-align: center;
+    color: #258cfb;
+    margin-top: 20px;
+}
+
+/* Định dạng form đăng ký */
+form {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    /* Các ô nhập liệu */
+    form div {
+        margin-bottom: 15px;
+    }
+
+/* Label cho các trường nhập liệu */
+label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Các input text, number và select */
+input[type="text"], input[type="number"], select {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+    /* Hiệu ứng khi hover vào input */
+    input[type="text"]:hover, input[type="number"]:hover, select:hover {
+        border-color: #258cfb;
+    }
+
+/* Nút đăng ký */
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #258cfb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    /* Hiệu ứng hover cho nút */
+    button[type="submit"]:hover {
+        background-color: #1e78d6;
+    }
+
+/* Thông báo kết quả */
+p {
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Liên kết quay lại trang đăng ký */
+a {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    color: #258cfb;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+/* Cấu trúc chung cho các trang */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Tiêu đề kết quả đăng ký */
+h2 {
+    text-align: center;
+    color: #258cfb;
+    margin-top: 20px;
+}
+
+/* Định dạng thông báo kết quả */
+p {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin-top: 15px;
+}
+
+/* Liên kết quay lại trang đăng ký */
+a {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    color: #258cfb;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+/* Các khung bọc kết quả */
+.result-container {
+    width: 50%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    /* Định dạng số lượng sinh viên đã đăng ký */
+    .result-container p {
+        font-size: 16px;
+        color: #555;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    /* Định dạng tiêu đề trong kết quả đăng ký */
+    .result-container h2 {
+        font-size: 20px;
+        color: #258cfb;
+        text-align: center;
+    }
+
+    /* Định dạng link quay lại trang đăng ký trong kết quả */
+    .result-container a {
+        text-align: center;
+        font-size: 16px;
+        color: #258cfb;
+        display: inline-block;
+        margin-top: 20px;
+        text-decoration: none;
+    }
+
+        .result-container a:hover {
+            text-decoration: underline;
+        }
